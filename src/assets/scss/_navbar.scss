@@ -2,7 +2,7 @@
 #mainNav {
   padding-top: 1rem;
   padding-bottom: 1rem;
-  @include heading-font;
+  @include body-font;
   .navbar-brand {
     color: $white;
   }
